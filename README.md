@@ -19,6 +19,8 @@
 <br/>
 
 ---
+forked from [ledger-flutter](https://github.com/RootSoft/ledger-flutter)
+mainly used for android namespace issue
 
 ## Overview
 
